@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java, Python, C#, C++, C+
 - 📫 How to reach me write me per Discord 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueofPhoenix&layout=compact&theme=tokyonight&show_icons=true%22%20alt%3D%22stats2" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueofPhoenix&layout=compact&theme=tokyonight&show_icons=true" alt="stats2" /></a>
 
 
 
