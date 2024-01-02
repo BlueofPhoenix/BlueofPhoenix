@@ -1,3 +1,6 @@
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+I+Am+Blue;H%C3%A9%2C+je+le+suis+Blue;Hey+ben+Blue;Hej%2C+jestem+Blue" alt="Typing SVG" /></a>
+
 - 👋 Hi, I’m @BlueofPhoenix
 - 👀 I’m interested in Coding with HTML CSS and JS, Python
 - 🌱 I’m currently learning Java, Python, C#, C++, C+
