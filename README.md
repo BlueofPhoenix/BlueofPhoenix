@@ -11,7 +11,6 @@ I'm a passionate coder with a love for building things and exploring new technol
 - Python
 - Java
 - C#, C++, C+
-- and more...
 
 #### 🌱 I’m currently learning
 - Data Structures and Algorithms
@@ -30,8 +29,7 @@ I'm a passionate coder with a love for building things and exploring new technol
 
 #### 🤝 Let's Connect
 - Discord: [BlueofPhoenix](https://discord.com/users/1121889187440889897)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+
 
 #### 🚀 Projects
 - [About me](https://github.com/BlueofPhoenix/me)
