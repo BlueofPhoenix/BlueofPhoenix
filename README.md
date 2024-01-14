@@ -1,15 +1,44 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+I+Am+Blue;H%C3%A9%2C+je+le+suis+Blue;Hey+ben+Blue;Hej%2C+jestem+Blue" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+I+Am+Blue;H%C3%A9%2C+je+le+suis+Blue;Hey+ben+Blue;Hej%2C+jestem+Blue" alt="Typing SVG" />
 </div>
 
 ### Hi there, I'm Blue! 👋
 
-- 🌐 I'm a passionate coder with a focus on HTML, CSS, JS, and Python.
-- 📚 Currently expanding my knowledge in Java, Python, C#, C++, and C+.
-- 💬 Let's connect! Reach me on Discord.
+I'm a passionate coder with a love for building things and exploring new technologies. Welcome to my GitHub profile!
 
+#### 🔧 Technologies & Tools
+- HTML, CSS, JavaScript
+- Python
+- Java
+- C#, C++, C+
+- and more...
+
+#### 🌱 I’m currently learning
+- Data Structures and Algorithms
+- Web Development frameworks
+- Machine Learning
+
+#### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueofPhoenix&layout=compact&theme=tokyonight&show_icons=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlueofPhoenix&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
+
+#### 📈 Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueofPhoenix&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+#### 🤝 Let's Connect
+- Discord: YourDiscordUsername#1234
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
+- Portfolio: [Your Portfolio](https://yourportfolio.com)
+
+#### 🚀 Projects
+- [Project 1](https://github.com/BlueofPhoenix/project1)
+- [Project 2](https://github.com/BlueofPhoenix/project2)
+
+#### 🎉 Fun Facts
+- I enjoy solving coding challenges on platforms like LeetCode and HackerRank.
+- I'm always open to collaboration on interesting projects.
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just to say hi! 🚀
