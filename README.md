@@ -34,8 +34,8 @@ I'm a passionate coder with a love for building things and exploring new technol
 - Portfolio: [Your Portfolio](https://yourportfolio.com)
 
 #### 🚀 Projects
-- [Project 1](https://github.com/BlueofPhoenix/me)
-- [Project 2](https://github.com/BlueofPhoenix/bbot)
+- [About me](https://github.com/BlueofPhoenix/me)
+- [BBot](https://github.com/BlueofPhoenix/bbot)
 
 #### 🎉 Fun Facts
 - I enjoy solving coding challenges on platforms like LeetCode and HackerRank.
