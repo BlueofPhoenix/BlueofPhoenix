@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+I+Am+Blue;H%C3%A9%2C+je+le+suis+Blue;Hey+ben+Blue;Hej%2C+jestem+Blue" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=Hey+i+am+BlueofPhoenix;My+favorite+Coding+Language+is+Python;my+favorite+Game+is+Minecraft;my+favorite+Hobby+is+Coding;Who+inspired+me+to+Code%3F;Maxim%2C+ByteSyntax%2C+Norisk+and+Daskomiko;The+Languages+i+can+Programm+%3A;HTML%2C+CSS%2C+JavaScript%2C+Python%2C+Java%2C+C%23%2C+C%2B%2B%2C+C%2B)](https://git.io/typing-svg)
 
 ### Hi there, I'm Blue! 👋
 
