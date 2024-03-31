@@ -26,10 +26,10 @@ I'm a passionate coder with a love for building things and exploring new technol
 </div>
 
 #### 🤝 Let's Connect
-- Discord: [BlueofPhoenix](https://discord.com/users/1121889187440889897)
+- Discord: [BlueofPhoenix](https://discord.com/users/1163562508976660573)
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1121889187440889897)](https://discord.com/users/1121889187440889897)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1121889187440889897)](https://discord.com/users/1163562508976660573)
 
 
 #### 🚀 Projects
